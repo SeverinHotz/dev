@@ -4,7 +4,7 @@ This is just a DEV and Playaround Package
 
 ## What ?
 ---------
-Test stuff - play around
+Test stuff - play around.
 
 ## How ?
 ---------
