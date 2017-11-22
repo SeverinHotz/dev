@@ -26,7 +26,7 @@
 
 #>
 
-function New-SREXOConnection {
+function New-EXOConnection {
 
      [CmdletBinding()]
     
